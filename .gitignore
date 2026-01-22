@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Config files with credentials (don't commit passwords!)
+smtp_configs.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
