@@ -6,7 +6,7 @@
 ```bash
 # Ubuntu/Debian
 sudo apt update && sudo apt install -y python3 python3-pip git
-git clone https://github.com/YOUR_USERNAME/messaging_app.git
+git clone https://github.com/Dragon504/messaging_app.git
 cd messaging_app
 pip3 install -r requirements.txt
 python3 -m streamlit run app.py --server.address 0.0.0.0
